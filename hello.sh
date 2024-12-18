@@ -1,2 +1,1 @@
-import subprocess
-subprocess.run(["touch", "hello.txt"])
+touch hello.txt
